@@ -1,0 +1,1 @@
+alert("BELIEVE ON GOD'S PLAN")
